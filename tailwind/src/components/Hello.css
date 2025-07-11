@@ -1,1 +1,6 @@
 @import "tailwindcss";
+.fontcustome{
+    font-weight: bold;
+    color: aqua;
+    font-style: italic;
+}
