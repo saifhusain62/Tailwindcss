@@ -41,6 +41,12 @@ function App() {
            <p className='text-center tracking-tighter'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, libero?</p>
            <p className='text-center tracking-wide'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, libero?</p>
            <p className='text-center -tracking-wider'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, libero?</p>
+           <br />
+             {/* LINE HEIGHT */}
+             <p className='text-center leading-5'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-center leading-2'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-center leading-4'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-center leading-10'>Lorem ipsum dolor sit amet.</p>
         
       
     </div>
