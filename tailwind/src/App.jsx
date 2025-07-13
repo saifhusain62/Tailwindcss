@@ -29,6 +29,12 @@ function App() {
          <h1 className='text-center tracking-wide'>Letter Spacing tight</h1>
           <h1 className='text-center tracking-wider'>Letter Spacing tight</h1>
           <h1 className='text-center tracking-widest'>Letter Spacing tight</h1>
+
+          {/* LINE HEIGHT */}
+          <p className='text-center text-base/6'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur eius, odit nam maiores ex ab eligendi quam impedit ipsum?</p>
+          <p className='text-center text-base/4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur eius, odit nam maiores ex ab eligendi quam impedit ipsum?</p>
+           {/* NUMBER CHANGES */}
+           <p className='diagonal-fractions text-center'>1/2 3/4 5/6</p>
         
       
     </div>
