@@ -63,7 +63,32 @@ function App() {
              <p className='text-center text-amber-600'>Lorem ipsum dolor sit amet.</p>
              <p className='text-right'>Lorem ipsum dolor sit amet.</p>
              <p className='text-justify text-blue-500'>Lorem ipsum dolor sit amet.</p>
-      
+
+             {/* TEXT COLOR */}
+
+             <p className='text-red-300 text-center'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-pink-800 text-center'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-lime-400 text-center mb-7'>Lorem ipsum dolor sit amet.</p>
+
+             {/* TEXT DECORATION */}
+               <p className='text-center text-blue-900 underline'>Lorem ipsum dolor sit amet.</p>
+                <p className='text-center text-blue-900 overline'>Lorem ipsum dolor sit amet.</p>   
+                 <p className='text-center text-blue-900 underline decoration-dotted'>Lorem ipsum dolor sit amet.</p>     
+
+
+
+            {/* TEXT TRANSFORM */}
+
+            <p className='text-center text-2xl uppercase text-amber-950 p-5'>Lorem ipsum dolor sit amet.</p>
+            <p className='text-center text-2xl lowercase text-cyan-700'>Lorem ipsum dolor sit amet.</p>
+            <p className='text-center text-2xl capitalize text-fuchsia-700'>Lorem ipsum dolor sit amet.</p>
+            <p className='text-center text-2xl normal-case text-lime-400'>Lorem ipsum dolor sit amet.</p>
+
+              {/* TEXT START SPACING */}
+
+
+              <p className='indent-5 text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quo non dolorum? Explicabo recusandae non cupiditate quibusdam expedita soluta? Non?</p>
+              <p className='-indent-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos excepturi animi molestias illo fuga ratione autem maxime ducimus, culpa natus harum rem incidunt est quis? Qui neque hic temporibus animi, quos reprehenderit numquam, ex, mollitia optio et placeat sunt quas. Quas sapiente sunt magnam iure nemo voluptates fugiat soluta perferendis.</p>
     </div>
   )
 }
