@@ -47,7 +47,22 @@ function App() {
              <p className='text-center leading-2'>Lorem ipsum dolor sit amet.</p>
              <p className='text-center leading-4'>Lorem ipsum dolor sit amet.</p>
              <p className='text-center leading-10'>Lorem ipsum dolor sit amet.</p>
-        
+
+             {/* LIST STYLE */}
+
+             <ul className='list-disc text-center'>
+              <li>A</li>
+              <li>B</li>
+             </ul>
+             <ul className='list-decimal text-center'>
+              <li>A</li>
+              <li>B</li>
+             </ul>
+             {/* TEXT ALIGN */}
+             <p className='text-left'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-center text-amber-600'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-right'>Lorem ipsum dolor sit amet.</p>
+             <p className='text-justify text-blue-500'>Lorem ipsum dolor sit amet.</p>
       
     </div>
   )
