@@ -88,7 +88,12 @@ function App() {
 
 
               <p className='indent-5 text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt quo non dolorum? Explicabo recusandae non cupiditate quibusdam expedita soluta? Non?</p>
-              <p className='-indent-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos excepturi animi molestias illo fuga ratione autem maxime ducimus, culpa natus harum rem incidunt est quis? Qui neque hic temporibus animi, quos reprehenderit numquam, ex, mollitia optio et placeat sunt quas. Quas sapiente sunt magnam iure nemo voluptates fugiat soluta perferendis.</p>
+              <p className='indent-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos excepturi animi molestias illo fuga ratione autem maxime ducimus, culpa natus harum rem incidunt est quis? Qui neque hic temporibus animi, quos reprehenderit numquam, ex, mollitia optio et placeat sunt quas. Quas sapiente sunt magnam iure nemo voluptates fugiat soluta perferendis.</p>
+
+
+              {/* CONETNT ICON */}
+
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, accusantium <a href="github.com/saifhusain62" className='text-sky-600 after:content-["_↗"] text-2xl'>saif Husain</a>repellendus. Quia quod aperiam impedit quaerat deserunt aspernatur nobis illum.</p> 
     </div>
   )
 }
