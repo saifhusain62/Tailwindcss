@@ -144,6 +144,43 @@ function App() {
                 <p className='p-6' >Saif husain</p>
 
               </div>
+
+
+              {/* HEIGHT */}
+
+              <div className='flex gap-5'>
+                <div className='bg-pink-500 mt-7 w-fit h-96 mb-7'>
+                <p className='p-10 text-center'>Hight  Class</p>
+              </div>
+
+              <div className='bg-cyan-700 mt-7 w-fit h-64 mb-7'>
+                <p className='p-10 text-center'>2nd height</p>
+
+              </div>
+              <div className='bg-cyan-700 mt-7 w-fit h-48 mb-7'>
+                <p className='p-10 text-center'>3nd height</p>
+
+              </div>
+               <div className='bg-cyan-700 mt-7 w-fit h-32 mb-7'>
+                <p className='p-10 text-center'>3nd height</p>
+
+              </div>
+
+              </div>
+
+              <div className='flex gap-5 max-w-[1600px] mx-auto'>
+                <div className='bg-amber-500 w-1/2 text-center'>
+
+                <p>HEllo Dear</p>
+
+                </div>
+                <div className='bg-amber-500 w-1/2 text-center'>
+
+                <p>HEllo Dear</p>
+
+                </div>
+
+              </div>
     </div>
   )
 }
