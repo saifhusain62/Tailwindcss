@@ -94,6 +94,56 @@ function App() {
               {/* CONETNT ICON */}
 
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, accusantium <a href="github.com/saifhusain62" className='text-sky-600 after:content-["_↗"] text-2xl'>saif Husain</a>repellendus. Quia quod aperiam impedit quaerat deserunt aspernatur nobis illum.</p> 
+
+
+
+              {/* WIDTH */}
+
+
+              <div  className='bg-blue-600 w-full justify-center flex items-center '>
+
+                <p>Saif husain</p>
+
+              </div>
+              
+              <div  className='bg-blue-600 w-1/2 justify-center flex items-center '>
+
+                <p>Saif husain</p>
+
+              </div>
+              
+              <div  className='bg-blue-600 w-1/3 justify-center flex items-center '>
+
+                <p>Saif husain</p>
+
+              </div>
+              
+              <div  className='bg-blue-600 w-1/4 justify-center flex items-center '>
+
+                <p>Saif husain</p>
+
+              </div>
+              
+              <div  className='bg-amber-600 w-5xl justify-center flex items-center '>
+
+                <p>Saif husain</p>
+
+              </div>
+              <div  className='bg-amber-950 w-min justify-center flex items-center '>
+
+                <p className='p-4'>Saif husain</p>
+
+              </div>
+              <div  className='bg-amber-950 w-max justify-center flex items-center '>
+
+                <p className='p-10'>Saif husain</p>
+
+              </div>
+              <div  className='bg-amber-950 w-fit justify-center flex items-center '>
+
+                <p className='p-6' >Saif husain</p>
+
+              </div>
     </div>
   )
 }
