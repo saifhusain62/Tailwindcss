@@ -190,6 +190,13 @@ function App() {
                 <p className='p-10'>Lorem ipsum dolor sit amet consectetur.</p>
 
               </div>
+
+              {/* PADDING */}
+              <div className='bg-yellow-400 w-2xl flex mx-auto items-center justify-center'>
+
+                <p className='text-center px-10 py-10'>Lorem ipsum dolor sit amet.</p>
+
+              </div>
     </div>
   )
 }
