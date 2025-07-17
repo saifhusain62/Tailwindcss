@@ -181,6 +181,15 @@ function App() {
                 </div>
 
               </div>
+
+
+              {/* SIZE */}
+
+              <div className='bg-amber-700 size-96 flex mx-auto text-center mt-10 '>
+
+                <p className='p-10'>Lorem ipsum dolor sit amet consectetur.</p>
+
+              </div>
     </div>
   )
 }
