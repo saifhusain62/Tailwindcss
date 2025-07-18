@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@tailwind utilities;
+.bgarea{
+    background-image: url("./assets/image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
