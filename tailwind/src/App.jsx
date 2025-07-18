@@ -197,6 +197,40 @@ function App() {
                 <p className='text-center px-10 py-10'>Lorem ipsum dolor sit amet.</p>
 
               </div>
+
+              {/* MARGIN */}
+
+              <div className='bg-blue-700 mx-auto text-center items-center mb-7 w-64 mt-5'>
+
+                <p className='p-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+              </div>
+               <div className='bg-blue-700 mx-auto text-center items-center mt-8 mb-5 w-64'>
+
+                <p className='p-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+              </div>
+
+              {/* SPACE BETWEEN */}
+
+              <div className='space-y-5 mb-5'>
+
+                    <div className='bg-blue-950 mx-auto items-center text-center text-amber-50 w-96 bord rounded-md'>
+
+                      <p className='p-10'>Lorem ipsum dolor sit amet.</p>
+
+                    </div>
+                    <div className='bg-blue-950 mx-auto items-center text-center text-amber-50 w-96 rounded-md'>
+
+                      <p className='p-10'>Lorem ipsum dolor sit amet.</p>
+
+                    </div>
+
+                    
+
+              </div>
+
+
     </div>
   )
 }
