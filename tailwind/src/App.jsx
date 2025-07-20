@@ -267,6 +267,8 @@ function App() {
 
                         </div>
 
+                        {/* GRID BOX */}
+
                         <div className='grid grid-cols-4 gap-1'>
                           <div className='bg-amber-300 w-5 h-5'>1</div>
                           <div className='bg-amber-300 w-5 h-5'>1</div>
@@ -288,6 +290,43 @@ function App() {
                           <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
                           <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
                           <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+
+                        </div>
+
+
+                        <div className='grid grid-cols-3 mx-auto gap-5 text-center text-white mt-10 mb-10'>
+
+                          <div className='col-span-3 bg-cyan-800'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-green-700'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-green-700'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-green-700'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-green-700'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-green-700'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-green-700'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-green-700'>Lorem ipsum dolor sit amet.</div>
+
+                          
+                        </div>
+
+
+                        <div className='grid grid-cols-3 mx-auto text-amber-50 text-center mt-10 mb-10 justify-items-center gap-2'>
+
+                          <div className='bg-fuchsia-700 w-[200px] h-52 p-15'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-fuchsia-700 w-[200px] h-52'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-fuchsia-700 w-[200px] h-52'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-fuchsia-700 w-[200px] h-52'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-fuchsia-700 w-[200px] h-52'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-fuchsia-700 w-[200px] h-52'>Lorem ipsum dolor sit amet.</div>
+
+
+
+                        </div>
+
+                        <div className='flex mx-auto gap-4 my-auto mt-10 ml-10 mb-10'>
+
+                          <div className='bg-white text-black w-3xs h-16 text-center items-center shadow-xl'>HEllo dear!</div>
+                          <div className='bg-green-950 text-white w-3xs h-16 text-center items-center shadow-sm'>HEllo dear!</div>
+                          <div className='bg-white text-black w-3xs h-60 text-center items-center shadow-xl/30 rounded-[10px] p-10'>HEllo dear!</div>
 
                         </div>
               
