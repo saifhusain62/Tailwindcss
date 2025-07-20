@@ -266,6 +266,30 @@ function App() {
                           <div className='bg-cyan-800 basis-1/4 text-center text-amber-50'>4</div>
 
                         </div>
+
+                        <div className='grid grid-cols-4 gap-1'>
+                          <div className='bg-amber-300 w-5 h-5'>1</div>
+                          <div className='bg-amber-300 w-5 h-5'>1</div>
+                          <div className='bg-amber-300 w-5 h-5'>1</div>
+                          <div className='bg-amber-300 w-5 h-5'>1</div>
+                          <div className='bg-amber-300 w-5 h-5'>1</div>
+                          <div className='bg-amber-300 w-5 h-5'>1</div>
+                          
+                        </div>
+
+                        <div className='grid grid-flow-col  grid-rows-5 gap-4 mx-auto w-7xl'>
+
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+                          <div className='bg-blue-800 w-2xl text-center'>Lorem ipsum dolor sit amet.</div>
+
+                        </div>
               
 
 
