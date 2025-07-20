@@ -234,13 +234,37 @@ function App() {
               {/* BACKGROUND IMAGE  */}
 
 
-              <div className='bgarea w-6xl h-96 mx-auto bg-local'>
-                        <p>Lorem ipsum dolor sit amet.</p>
+              <div className='bgarea w-6xl h-96 mx-auto bg-scroll'>
+                        <p></p>
                        
               </div>
                <div >
                           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur pariatur velit dolorum tenetur dolor non iure, rerum cupiditate eaque eum corrupti inventore praesentium sit labore dignissimos nemo omnis quisquam eius quas distinctio itaque eos fugit! Eum, fuga recusandae asperiores provident quo architecto voluptates ipsum harum. Sit eius expedita cum. Tenetur unde aut modi nemo possimus id, magni accusantium, eaque placeat ut ullam! Iure perferendis temporibus eligendi sequi, magni alias nisi nesciunt quis neque delectus voluptate exercitationem ut molestiae repellat unde pariatur modi possimus sed, explicabo maiores, amet similique odio perspiciatis. Rem sit officia cumque error, inventore nobis facilis hic nemo!</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nulla eius incidunt ea sunt voluptates corrupti aut. Aspernatur fugiat nemo aliquam mollitia nulla maiores praesentium aut obcaecati, molestiae rerum assumenda exercitationem est eaque corrupti corporis iure quo debitis quasi delectus. Fugit totam nemo esse temporibus iusto pariatur, autem blanditiis asperiores natus velit accusamus officiis beatae facilis nostrum molestiae assumenda excepturi sit quia dolores perspiciatis sed accusantium officia architecto perferendis! Ex qui similique laborum quo ducimus itaque aliquid molestiae explicabo eius esse tempora repudiandae enim amet est libero sit quaerat iusto deserunt optio quasi perspiciatis, recusandae ipsum iure. Temporibus atque necessitatibus voluptates qui aut minima sint corporis, eos omnis repellat? Qui architecto consequatur facere sit quaerat pariatur odio voluptatem modi excepturi enim hic incidunt ad porro cum voluptatibus eos, ipsa in corrupti labore ipsum unde ducimus? Minus incidunt aliquid pariatur labore repellendus perferendis consequuntur magni totam, voluptatum, maiores suscipit molestias perspiciatis ipsum, sit atque? Quaerat itaque similique officiis dolores veniam tenetur sequi at amet molestias incidunt doloremque odit debitis quas fuga dolor voluptate non architecto aperiam quidem iusto, cum dicta. Assumenda soluta quo atque aut velit reprehenderit perspiciatis vitae placeat nostrum quod maiores, in, quos voluptatum non dicta, dolorum commodi sit?</p>
+             
+                        </div>
+
+                        <div className='text-center mx-auto bg-black border-2 border-amber-300 w-2xs rounded-2xl'>
+
+                          <p className='text-white p-10'>Lorem ipsum dolor sit amet.</p>
+
+                        </div>
+
+
+
+                        <div className='flex flex-row mt-10 mb-10'>
+
+                          <div className='bg-amber-400 basis-2/3 text-center'>1</div>
+                          <div className='bg-amber-950 basis-1/3 text-center'>2</div>
+
+                        </div>
+                        <div className='flex flex-row mt-10 mb-10 w-[1400px] mx-auto'>
+
+                          <div className='bg-blue-400 basis-1/4 text-center'>1</div>
+                          <div className='bg-blue-700 basis-1/4 text-center'>2</div>
+                          <div className='bg-amber-400 basis-1/4 text-center'>3</div>
+                          <div className='bg-cyan-800 basis-1/4 text-center text-amber-50'>4</div>
+
                         </div>
               
 
